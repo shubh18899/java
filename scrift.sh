@@ -1,5 +1,5 @@
 echo "testing started"
 sleep 10
 echo "still testing going"
-sleep 15
+sleep 10
 echo "testing done successfully"
